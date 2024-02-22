@@ -20,4 +20,4 @@
     branch = faasm
 [submodule "third-party/cpp"]
     path = third-party/cpp
-    url = https://github.com/faasm/cpp
+    url = https://github.com/lyuxiaosu/faasm-cpp 
